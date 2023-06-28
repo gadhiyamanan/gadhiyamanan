@@ -154,7 +154,7 @@
 
 
 
-[![Github Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gadhiyamanan&theme=github-compact)](https://github.com/gadhiyamanan/github-readme-activity-graph)
+[![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadhiyamanan&theme=github-compact)](https://github.com/gadhiyamanan/github-readme-activity-graph)
 
 
 
