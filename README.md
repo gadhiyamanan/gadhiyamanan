@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 📱 &nbsp; 3+ years of experience in professional mobile application development.
+- 📱 &nbsp; 4+ years of experience in professional mobile application development.
 
 <br>
 
