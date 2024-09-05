@@ -139,21 +139,13 @@
 
 <br>
 
- <hr>
-
-
-
-
-
-
-<br>
 <p align="centre">
  
  </p>
 
 
 
-[![Github Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadhiyamanan&theme=github-compact)](https://github.com/gadhiyamanan/github-readme-activity-graph)
+
 
 
 
