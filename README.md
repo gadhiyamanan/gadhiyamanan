@@ -5,7 +5,11 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 📱 &nbsp; 4+ years of experience in professional mobile application development.
+- 👨‍💻 React Native Developer with 5+ years of experience in building cross-platform mobile apps.
+- ⚡ Skilled in creating high-performance, user-friendly, and visually appealing applications.
+- 🧩 Focused on clean architecture, reusable components, and maintainable code.
+- 🚀 Passionate about solving complex problems and exploring the latest mobile technologies.
+- 🎯 Dedicated to delivering seamless user experiences and continuously improving development workflows.
 
 <br>
 
@@ -92,8 +96,8 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gadhiyamanan&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gadhiyamanan&theme=dark&hide_border=true" />
+
+  
 
 
   
@@ -101,8 +105,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gadhiyamanan&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gadhiyamanan&theme=dark&hide_border=true" />
   </td>
 </tr>
 </table>
@@ -177,14 +180,7 @@
   
 <br>
   
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/gadhiyamanan/count.svg" />  
-</p>
+
    
 </center>
 </p>
