@@ -92,7 +92,7 @@
   <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadhiyamanan&theme=radical&hide_border=true" />
   
 <table border="0" align="center">
-<tr border="0">
+<!-- <tr border="0">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gadhiyamanan&theme=cobalt&show_icons=true&count_private=true" />
@@ -107,10 +107,10 @@
 
  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gadhiyamanan&theme=dark&hide_border=true" />
   </td>
-</tr>
+</tr> -->
 </table>
 
-<br>
+<!-- <br> -->
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-<br>
+<!-- <br>
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -140,11 +140,7 @@
 </div>
 </p>
 
-<br>
-
-<p align="centre">
- 
- </p>
+<br> -->
 
 
 
@@ -154,11 +150,12 @@
 
 
 
- <br> 
+
+<!-- <br> 
  
  <hr>
  
- <br>
+ <br> -->
 
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
